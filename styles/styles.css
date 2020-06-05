@@ -1,0 +1,60 @@
+body {
+    background-color: gainsboro;
+}
+
+div {
+    background-color: white;
+    border-radius: 10px;
+    margin: 50px 20px 100px 20px;
+}
+
+/* Header Section */
+#logo {
+    margin-left: 30px;
+    width: 250px;
+}
+
+#nav-content {
+    margin-right: 30px;
+    float: right;
+}
+
+strong {
+    color: orange;
+}
+
+hr {
+    height: 20px;
+    background-color: blue;
+}
+
+/* Main Section */
+#first-list {
+    display: inline-block;
+    border: 4px solid grey;
+    padding: 0;
+    width: 475px;
+    height: 250px;
+    margin-left: 10px;
+}
+
+h1 {
+    padding-left: 10px;
+}
+
+.benefits {
+    padding-left: 40px;
+}
+
+#image-2 {
+    height: 200px;
+    float: right;
+    position: relative;
+    bottom: 90px;
+}
+
+#second-list {
+    float: right;
+    display: inline-block;
+    list-style: none;
+}
